@@ -70,7 +70,7 @@ public class Main {
         var totalEmployers = totalWorkingWoors / hoursPerDay;
         totalEmployers += 94;
         totalWorkingWoors = totalEmployers * hoursPerDay;
-        System.out.println( "Если в компании работает " + totalEmployers +  " человека, то всего " + totalWorkingWoors + " часа работы может быть поделено между сотрудниками");
+        System.out.println( "Если в компании работает " + totalEmployers +  " человека, то всего " + totalWorkingWoors + " часов работы может быть поделено между сотрудниками");
 
     }
 }
